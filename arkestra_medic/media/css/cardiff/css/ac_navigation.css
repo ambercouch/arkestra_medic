@@ -60,15 +60,16 @@ body.no_nav_horiz #wrapper  {
 #nav_horiz{
      width: 940px;
     background: #ddd;
-    padding: 5px 0;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
+    padding: 10px 0;
     
   
 }
 #nav_horiz ul li{
     float: left;
-    padding: 0 10px;
-    font-weight: bold;
+    padding: 0 1em;
+    font-weight: normal;
+    font-size: 1.2em;
 }
 #nav_horiz li a:hover,
 #nav_horiz li a:visited
