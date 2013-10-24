@@ -167,7 +167,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
 }
 /*Removed margin from input and added to wrapper to correct vertical-align: middle error    */
 form > div{
-    margin-bottom: 1em;
+    margin-bottom: 0.3em;
 }
 
 .filterline .filterlabel {
